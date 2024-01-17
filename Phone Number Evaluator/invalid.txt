@@ -1,0 +1,45 @@
+Testing this Number: 250-001-2673
+Prefix error: 001 Prefix code is invalid 
+
+Testing this Number: 538-748-3779
+Area code error: 538 Area code is invalid 
+
+Testing this Number: 5t6-767-6383
+Number format error. Number provided 5t6-767-6383 contains letters. Please add numbers only 
+
+Testing this Number: 778-yty-7738
+Number format error. Number provided 778-yty-7738 contains letters. Please add numbers only 
+
+Testing this Number: 23-6363-3720
+Area code error: 23 Area code is invalid 
+
+Testing this Number: 250-2200-748
+Prefix error: 2200 Prefix code is invalid 
+
+Testing this Number: 672-252-477
+Line error: Line error: 477 Line code is invalid 
+
+Testing this Number: 6378-368-3839
+Area code error: 6378 Area code is invalid 
+
+Testing this Number: 672-7478-4773
+Prefix error: 7478 Prefix code is invalid 
+
+Testing this Number: 23 6-252-2324
+Area code error: 23 6 Area code is invalid 
+
+Testing this Number: 45-7889-7765
+Area code error: 45 Area code is invalid 
+
+Testing this Number: 6377938762
+Hyphen error: 6377938762 has missing hyphen.
+ number format provided is incorrect. Hyphen/s is/are missing 
+
+Testing this Number: 672-6672782
+Hyphen error: 672-6672782 has missing hyphen.
+ number format provided is incorrect. Hyphen/s is/are missing 
+
+Testing this Number: 5627892-253
+Hyphen error: 5627892-253 has missing hyphen.
+ number format provided is incorrect. Hyphen/s is/are missing 
+

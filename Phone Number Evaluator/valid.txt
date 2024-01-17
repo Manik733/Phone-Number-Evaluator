@@ -1,0 +1,15 @@
+Testing this Number: 236-214-6733
+Code is valid
+
+Testing this Number:      672-220-3454
+Code is valid
+
+Testing this Number: 672-  252-7733
+Code is valid
+
+Testing this Number: 236 -252-2324
+Code is valid
+
+Testing this Number: 250-252-3838        
+Code is valid
+
